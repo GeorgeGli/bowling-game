@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 4c6afe2a556351a44881016ddf227302
+timeCreated: 1496856836
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: INTERIOR_-_FURNITURE__GDLM4_BLACK_SMOOTH_PART
+    100002: INTERIOR_-_FURNITURE__GDLM8_WHITE_SMOOTH_PART
+    100004: INTERIOR_-_FURNITURE__PAINT-14_SMOOTH_PART
+    100006: INTERIOR_-_FURNITURE__PAINT-16_SMOOTH_PART
+    100008: INTERIOR_-_FURNITURE__PAINT-25_SMOOTH_PART
+    100010: INTERIOR_-_FURNITURE__SURF-STUCCO_RED_SMOOTH_PART
+    100012: MORPH_-_GENERAL_PAINT-06_SMOOTH_PART
+    100014: //RootNode
+    400000: INTERIOR_-_FURNITURE__GDLM4_BLACK_SMOOTH_PART
+    400002: INTERIOR_-_FURNITURE__GDLM8_WHITE_SMOOTH_PART
+    400004: INTERIOR_-_FURNITURE__PAINT-14_SMOOTH_PART
+    400006: INTERIOR_-_FURNITURE__PAINT-16_SMOOTH_PART
+    400008: INTERIOR_-_FURNITURE__PAINT-25_SMOOTH_PART
+    400010: INTERIOR_-_FURNITURE__SURF-STUCCO_RED_SMOOTH_PART
+    400012: MORPH_-_GENERAL_PAINT-06_SMOOTH_PART
+    400014: //RootNode
+    2300000: INTERIOR_-_FURNITURE__GDLM4_BLACK_SMOOTH_PART
+    2300002: INTERIOR_-_FURNITURE__GDLM8_WHITE_SMOOTH_PART
+    2300004: INTERIOR_-_FURNITURE__PAINT-14_SMOOTH_PART
+    2300006: INTERIOR_-_FURNITURE__PAINT-16_SMOOTH_PART
+    2300008: INTERIOR_-_FURNITURE__PAINT-25_SMOOTH_PART
+    2300010: INTERIOR_-_FURNITURE__SURF-STUCCO_RED_SMOOTH_PART
+    2300012: MORPH_-_GENERAL_PAINT-06_SMOOTH_PART
+    3300000: INTERIOR_-_FURNITURE__GDLM4_BLACK_SMOOTH_PART
+    3300002: INTERIOR_-_FURNITURE__GDLM8_WHITE_SMOOTH_PART
+    3300004: INTERIOR_-_FURNITURE__PAINT-14_SMOOTH_PART
+    3300006: INTERIOR_-_FURNITURE__PAINT-16_SMOOTH_PART
+    3300008: INTERIOR_-_FURNITURE__PAINT-25_SMOOTH_PART
+    3300010: INTERIOR_-_FURNITURE__SURF-STUCCO_RED_SMOOTH_PART
+    3300012: MORPH_-_GENERAL_PAINT-06_SMOOTH_PART
+    4300000: INTERIOR_-_FURNITURE__GDLM4_BLACK_SMOOTH_PART
+    4300002: INTERIOR_-_FURNITURE__GDLM8_WHITE_SMOOTH_PART
+    4300004: INTERIOR_-_FURNITURE__PAINT-14_SMOOTH_PART
+    4300006: INTERIOR_-_FURNITURE__PAINT-16_SMOOTH_PART
+    4300008: INTERIOR_-_FURNITURE__PAINT-25_SMOOTH_PART
+    4300010: INTERIOR_-_FURNITURE__SURF-STUCCO_RED_SMOOTH_PART
+    4300012: MORPH_-_GENERAL_PAINT-06_SMOOTH_PART
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
